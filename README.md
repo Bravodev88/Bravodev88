@@ -17,7 +17,7 @@
 ✔ Development for me is a challenge where I am capable of creating complex projects and finding the best solutions.<br>
 </p>
 <p align="center">
-  <a href="https://github.com/Talent0407"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20full-stack%20developer;5+%2B%20years%20of%20hands-on%20experience%20in%20Web3;10+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20full%20stack%20developer&center=true&width=800&height=45"></a>
+  <a href="https://github.com/Talent0407"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20full-stack%20developer;10+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20full%20stack%20developer&center=true&width=800&height=45"></a>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/Talent0407?label=Follow&style=social" />
