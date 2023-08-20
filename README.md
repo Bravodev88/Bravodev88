@@ -8,13 +8,13 @@
 </h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
- Creative, Passionate, and Efficient Senior Software Developer with over 9+ years of experience in web, mobile and desktop applications design, development, and maintenance. 
-✔ Experience: 4 years in web development.
-✔ Front-end stack: React.JS, Vue.JS
-✔ Back-end stack: Node.JS, Laravel
-✔ Experience in Databases: PostgreSQL, Microsoft SQL Server, MongoDB, MySQL,MariaDB, DynamoDB.
-✔ Area of expertise: Healthcare, E-commerce, FinTech, ERP, CRM, Travel, Hospitality, Real estate, Marketplace, Manufacturing, Insurance, LMS (Learning Management Systems), Logistics, Martech, Car Rent, Social Networks.
-✔ Development for me is a challenge where I am capable of creating complex projects and finding the best solutions.
+ Creative, Passionate, and Efficient Senior Software Developer with over 9+ years of experience in web, mobile and desktop applications design, development, and maintenance. <br>
+✔ Experience: 4 years in web development.<br>
+✔ Front-end stack: React.JS, Vue.JS<br>
+✔ Back-end stack: Node.JS, Laravel<br>
+✔ Experience in Databases: PostgreSQL, Microsoft SQL Server, MongoDB, MySQL,MariaDB, DynamoDB.<br>
+✔ Area of expertise: Healthcare, E-commerce, FinTech, ERP, CRM, Travel, Hospitality, Real estate, Marketplace, Manufacturing, Insurance, LMS (Learning Management Systems), Logistics, Martech, Car Rent, Social Networks.<br>
+✔ Development for me is a challenge where I am capable of creating complex projects and finding the best solutions.<br>
 </p>
 <p align="center">
   <a href="https://github.com/Talent0407"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20full-stack%20developer;5+%2B%20years%20of%20hands-on%20experience%20in%20Web3;10+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20full%20stack%20developer&center=true&width=800&height=45"></a>
