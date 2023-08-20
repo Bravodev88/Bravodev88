@@ -74,21 +74,36 @@
 <br>
 
 
-<h2 font-weight="bold">𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨</h2>
+<h2 font-weight="bold">𝗦𝗸𝗶𝗹𝗹 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀</h2>
 
 <img align="right" alt="GIF" src="https://github.com/Talent0407/Talent0407/blob/Temle/code.gif?raw=true" width="400" />
  
-### DApps & NFT Marketplace & Defi & DEX
+### React Native App Development
 <br />
 
-### Smart Contract
+### React Web Development
 <br />
 
-### Crypto Trading Platforms & Bots
+### Redux, MobX, and State Management
 <br />
 
 ### Shopify & E-commerce
 <br />
 
-### Web Full Stack
+### UI/UX Design and Prototyping
+<br />
+
+### RESTful APIs Integration
+<br />
+
+### Firebase, AWS, or Backendless Integration
+<br />
+
+### Push Notifications and In-App Messaging
+<br />
+
+### Unit Testing and Debugging
+<br />
+
+### Version Control (Git)
 <br />
