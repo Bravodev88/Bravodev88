@@ -78,32 +78,22 @@
 
 <img align="right" alt="GIF" src="https://github.com/Talent0407/Talent0407/blob/Temle/code.gif?raw=true" width="400" />
  
-### React Native App Development
-<br />
+### ✔️ React Native App Development <br>
 
-### React Web Development
-<br />
+### ✔️ React Web Development <br>
 
-### Redux, MobX, and State Management
-<br />
+### ✔️ Redux, MobX, and State Management <br>
 
-### Shopify & E-commerce
-<br />
+### ✔️ Shopify & E-commerce <br>
 
-### UI/UX Design and Prototyping
-<br />
+### ✔️ UI/UX Design and Prototyping <br>
 
-### RESTful APIs Integration
-<br />
+### ✔️ RESTful APIs Integration <br>
 
-### Firebase, AWS, or Backendless Integration
-<br />
+### ✔️ Firebase, AWS, or Backendless Integration <br>
 
-### Push Notifications and In-App Messaging
-<br />
+### ✔️ Push Notifications and In-App Messaging <br>
 
-### Unit Testing and Debugging
-<br />
+### ✔️ Unit Testing and Debugging <br>
 
-### Version Control (Git)
-<br />
+### ✔️ Version Control (Git)<br>
